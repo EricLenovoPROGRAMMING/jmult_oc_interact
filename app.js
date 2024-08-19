@@ -423,7 +423,7 @@ function switchPage(u) {
   let a = WORD_BANK[current.sorted[current.currentSorted]];
   $("question").innerHTML = a.quote;
   //$("rambol").style.color = "#fff";
-  $("picture-div").innerHTML = "<gggg id=choices-div style='width; 80%; height: 70%; font-size: 300%'></gggg>"; 
+  $("picture-div").innerHTML = "<gggg id=choices-div style='width; 80%; height: 70%; font-size: 2.4em'></gggg>"; 
  // canvasPicture.ctx.clearRect(0,0,1280,720);
   $("rambol-div").innerHTML = "";
   for (let h in a.choices) {
