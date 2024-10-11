@@ -113,84 +113,70 @@ const WORD_BANK = [
  {
   choices: {
    0: "Language",
-   1: "Physical",
-   2: "Cultural",
-   3: "Emotional",
-   4: "Physiological",
-	5: "Attitudinal",
+   1: "Conclusion",
+   2: "Chronological",
+   3: "Introduction",
+   4: "Body",
+	5: "Topical",
 
   },
   correct: 3,
-  quote: "A student is too nervous to ask a question in class."
+  quote: "What part of a written speech serves as the foundation?"
  },
  {
   choices: {
-   0: "Language",
-   1: "Physical",
-   2: "Cultural",
-   3: "Emotional",
-   4: "Physiological",
-	5: "Attitudinal",
+   0: "Problem-solution",
+   1: "Chronological",
+   2: "Topical",
+   3: "Comparison/contrast",
+   4: "Causal",
+	5: "Biographical",
 
   },
-  correct: 0,
-  quote: "A doctor tries to explain a diagnosis to a patient who does not speak the same language."
+  correct: 1,
+  quote: "What pattern is this an example of: \"Describing the events before, during,and after the Spanish colonialization in the Philippines.\""
  },
  {
   
   choices: {
-   0: "Language",
-   1: "Physical",
-   2: "Cultural",
-   3: "Emotional",
-   4: "Physiological",
-	5: "Attitudinal",
+   0: "Writing Speech",
+   1: "Writing Patterns",
+   2: "Writing Delivery",
+   3: "Writing Composition",
+   4: "Writing Details",
+	5: "Writing Facts",
 
   },
-  correct: 5,
-  quote: "A manager refuses to listen to an employee's suggestion because they believe the employee is not experienced enough."
+  correct: 1,
+  quote: "What are structures that will help you organize the ideas related to the topic?."
  
  },
  {
   choices: {
-   0: "Language",
-   1: "Physical",
-   2: "Cultural",
-   3: "Emotional",
-   4: "Physiological",
-	5: "Attitudinal",
+   0: "Writing Patterns",
+   1: "Causal",
+   2: "Problem-solution",
+   3: "Chronological",
+   4: "Topical",
+	5: "Biographical",
 
   },
-  correct: 1,
-  quote: "A loud construction project outside a meeting room makes it difficult for participants to hear each other.",
+  correct: 2,
+  quote: "What writing pattern presents an identified problem, its causes, and recommended solutions?",
   
  },
  {
   choices: {
-   0: "Language",
-   1: "Physical",
-   2: "Cultural",
-   3: "Emotional",
-   4: "Physiological",
-	5: "Attitudinal",
+   0: "Body",
+   1: "Introduction",
+   2: "Concluaion",
+   3: "Writing Patterns",
+   4: "Demographics",
+	5: "Problem-Solution",
 
   },
-  correct: 4,
-  quote: "A person with a hearing impairment struggles to understand a conversation in a noisy environment.",
-
- },
- {
-  choices: {
-   0: "Language",
-   1: "Physical",
-   2: "Cultural",
-   3: "Emotional",
-   4: "Physiological",
-	5: "Attitudinal",
-
-  },
-  correct: 2,
-  quote: "A salesperson tries to close a deal with a client from a different culture without understanding their customs and values.",
+  correct: 0,
+  quote: "What part of a written speech provides specific information, arguments, explanations, examples, or details?",
 
  }
 
